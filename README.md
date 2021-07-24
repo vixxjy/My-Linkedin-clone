@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My Linkedin Clone Project
 
 This project was Built with React.js, styles components, and firebase
 
-## Available Scripts
+## Hosted on Netlify
 

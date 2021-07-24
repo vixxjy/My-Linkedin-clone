@@ -29,44 +29,44 @@ const Header = (props) => {
                             </a>
                        </NavList>
                        <NavList>
-                            <a>
+                            <a href="#!">
                                 <img src="/images/nav-network.svg" alt="nav home logo"/>
                                 <span>My network</span>
                             </a>
                        </NavList>
                        <NavList>
-                            <a>
+                            <a href="#!">
                                 <img src="/images/nav-jobs.svg" alt="nav home logo"/>
                                 <span>Jobs</span>
                             </a>
                        </NavList>
                        <NavList>
-                            <a>
+                            <a href="#!">
                                 <img src="/images/nav-messaging.svg" alt="nav home logo"/>
                                 <span>Messaging</span>
                             </a>
                        </NavList>
                        <NavList>
-                            <a>
+                            <a href="#!">
                                 <img src="/images/nav-notifications.svg" alt="nav home logo"/>
                                 <span>Notifications</span>
                             </a>
                        </NavList>
                        <User>
-                            <a>
+                            <a href="#!">
                                 <img src="/images/user.svg" alt="users" />
                                 <span>Me</span>
                                 <img src="/images/down-icon.svg" alt="down" />
                             </a>
 
                             <SignOut>
-                            <a>
+                            <a href="#!">
                                 Sign Out
                             </a>
                             </SignOut>
                        </User>
                        <Work>
-                            <a>
+                            <a href="#!">
                                 <img src="/images/nav-work.svg" alt="users" />
                                 <span>Work
                                 <img src="/images/down-icon.svg" alt="down" />
