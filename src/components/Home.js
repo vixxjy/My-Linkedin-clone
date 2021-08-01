@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Section, Content, Layout } from './Home.styles';
+import { Container, Section, Layout } from './Home.styles';
 import LeftSide from './leftside/LeftSide'
 import Main from './main/Main';
 import RightSide from './rightside/RightSide';
